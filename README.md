@@ -170,5 +170,4 @@ Change the open boxes [ ] below to checked boxes [x] as you complete the tasks.
 - [x] Task 5. Push Repo to GitHub
 - [x] Task 6. Optional Bonus
 
-
 Finally - after your initial commit and push, you can check the last box. Check the box, commit your changes (with a message!), and push/sync again.
